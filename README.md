@@ -43,6 +43,8 @@ This repository documents my complete journey from beginner to AI generalist. I'
 *[Continue for all 8 phases...]*
 
 ## 📁 Repository Structure
+
+
 ai-learning-journey/
 ├── week-01-python-basics/
 │ ├── 00-environment-setup.ipynb
